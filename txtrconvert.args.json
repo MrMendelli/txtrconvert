@@ -1,0 +1,380 @@
+{
+  "FileVersion": 2,
+  "Id": "5a377de5-b223-499b-a913-23a8b45cfd7f",
+  "Items": [
+    {
+      "Id": "d0e6288e-efe1-402a-baab-2f201ff51468",
+      "Command": "extract - 67bb9879 - CMPR - Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "c4960dd9-068f-4e6b-9a8b-ea6cc8469c75",
+          "Command": "extract"
+        },
+        {
+          "Id": "acd0cc47-e9df-4a98-91c9-5a87a562a7a4",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP2Paks\\TestAnim-pak\\67bb9879.TXTR"
+        },
+        {
+          "Id": "ca336608-4096-444b-a376-d663a9e60378",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\EXTRACTEST"
+        },
+        {
+          "Id": "5d18aaf5-d4ed-4d7c-aab3-3755946cea63",
+          "Command": "-m"
+        },
+        {
+          "Id": "12a59c11-6477-4dcb-9f9f-23fe9dddb14a",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "fb4cdd0e-0833-4708-907c-4f9d80b8dde9",
+      "Command": "extract - 087fc94e - CMPR - Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "5f15f9ab-3d45-443f-ba3c-a3b6fcbedea7",
+          "Command": "extract"
+        },
+        {
+          "Id": "65cb4f7d-52ae-456c-80f6-734424947dc4",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\Metroid1-pak\\087fc94e.TXTR"
+        },
+        {
+          "Id": "71abcdcd-a4af-48b4-89d3-dc466f72531d",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\EXTRACTEST"
+        },
+        {
+          "Id": "0b83a7f5-b6ae-422d-8bae-9e4cbca770ec",
+          "Command": "-m"
+        },
+        {
+          "Id": "c69328ec-9118-4909-974e-6e56ee122dc2",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "f0082e1a-4bbb-4b08-8687-29cde176a650",
+      "Command": "extract - 96ed6a6d - RGB5A3 - Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "31d1ea70-5f56-41b3-ac87-9f9a7cf40372",
+          "Command": "extract"
+        },
+        {
+          "Id": "6eb80793-d73d-403f-a9de-27068809da37",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\Metroid1-pak\\96ed6a6d.TXTR"
+        },
+        {
+          "Id": "c93b6f84-1a36-45a6-ad29-6e93292b3bbb",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\EXTRACTEST"
+        },
+        {
+          "Id": "7be95c26-7f03-4382-b0ec-6c6fb7a051a0",
+          "Command": "-m"
+        },
+        {
+          "Id": "deb1b583-b4c1-4ba2-8562-f0bc163cf158",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "1fa5980b-5602-462f-ae43-15b5b68f2183",
+      "Command": "help - various",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "67ffbcbc-caef-40d9-8430-c33c32df7b8f",
+          "Command": "help"
+        },
+        {
+          "Id": "d52c3994-85f4-4533-ac61-809a0f14daa9",
+          "Command": "help extract"
+        },
+        {
+          "Id": "0e49fd67-3081-4140-83d8-7421c19f3fed",
+          "Command": "help create"
+        },
+        {
+          "Id": "0fcf7c7f-a0da-4166-bb32-8c8824fc4115",
+          "Command": "help read"
+        }
+      ]
+    },
+    {
+      "Id": "45833498-d334-4c98-8fe3-2cafe1d9585e",
+      "Command": "extract - 0c0023f9 - I4 - Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "e1026983-c3c7-4be8-b42e-4b0a7bd7cc8a",
+          "Command": "extract"
+        },
+        {
+          "Id": "fe1ae625-6596-4557-a8bd-caea5bc9a673",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\0c0023f9.TXTR"
+        },
+        {
+          "Id": "8ed3f3dc-5eb5-428c-befb-b86871f95789",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST"
+        },
+        {
+          "Id": "a1e72bd0-2172-46f5-bc94-0a9d708d77db",
+          "Command": "-m"
+        },
+        {
+          "Id": "9dd9c888-b6e9-40f2-ab7d-6b456d8feb89",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "296bd724-2cfd-4a35-a324-482965ca79e1",
+      "Command": "create - 0c0023f9 - I4 - Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "6cb46082-c2b7-4e0d-b919-9b7ead9bf8d8",
+          "Command": "create"
+        },
+        {
+          "Id": "1173eba1-b475-41c4-b21d-1cc75bfed3f3",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\0c0023f9_1.png,C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\0c0023f9_2.png,C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\0c0023f9_3.png,C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\0c0023f9_4.png,C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\0c0023f9_5.png"
+        },
+        {
+          "Id": "677a6371-aa7f-4a77-b165-b5a0f9c85cbc",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\0c0023f9.TXTR"
+        },
+        {
+          "Id": "33c7d2d2-45c5-4a7e-a0ab-7ddfbd010062",
+          "Command": "-m"
+        },
+        {
+          "Id": "01dddc8b-dfb8-49bc-b02f-8d5748c2a0d9",
+          "Command": "-t I4"
+        },
+        {
+          "Id": "c0a36606-5539-4875-880a-7ad75e01f0aa",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "e58ca420-70e7-47cc-9df3-d0a967a1ddea",
+      "Command": "extract - 7aed87d7 - C8 - No Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "d2647f93-3055-4dfa-a3fc-cf04559a29a3",
+          "Command": "extract"
+        },
+        {
+          "Id": "2588b9aa-d425-4118-8ea2-548e2c8a5da4",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\GGuiSys-pak\\7aed87d7.TXTR"
+        },
+        {
+          "Id": "5e9b46bf-2fcf-4d73-952b-1d955a6df4f2",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST"
+        },
+        {
+          "Id": "75a820cb-5b49-4e68-8954-821ec7aad230",
+          "Command": "-m"
+        },
+        {
+          "Id": "70a0174b-a7d7-43b9-b50f-7605555a0727",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "93127e14-6f91-454d-9e17-286e940b1d49",
+      "Command": "create - 7aed87d7 - C8 - No Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "569c48ef-8ccb-4c36-94dc-7dab1f3a6f62",
+          "Command": "create"
+        },
+        {
+          "Id": "29710d0e-6d86-4253-b57b-05abc4394e78",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\7aed87d7_1.png"
+        },
+        {
+          "Id": "c803ad43-23b5-46dd-abfb-fb9feb2a3df1",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\ext\\7aed87d7.TXTR"
+        },
+        {
+          "Id": "7d0d906f-745a-49f8-b0d4-10510631aaf7",
+          "Command": "-m 1"
+        },
+        {
+          "Id": "dd478a90-f692-49e5-a4d9-b48fe1d09d5c",
+          "Command": "-t C14X2"
+        },
+        {
+          "Id": "dc9be5ab-a4a5-45ef-b5fd-f8273dac2233",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "40870771-d996-412d-9613-c78e8fa729bd",
+      "Command": "create->extract - 7aed87d7 - C8 - No Mipmaps",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "0385eb94-a61c-4fcc-93b2-bbec9de20acd",
+          "Command": "extract"
+        },
+        {
+          "Id": "38cc135d-aa17-4550-8407-6b6b01960056",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\GGuiSys-pak\\7aed87d7.TXTR"
+        },
+        {
+          "Id": "6b4ad6d4-487d-4e73-b374-12b4e8c25f45",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\ext"
+        },
+        {
+          "Id": "fef486d6-d6f4-4a02-91d8-222294456541",
+          "Command": "-m"
+        },
+        {
+          "Id": "7cea042a-4e7a-4d19-a4a6-11cf30a8fb17",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "93773b26-1dce-4ea1-bf20-8b0b1ada9d41",
+      "Command": "extract - GGuiSys - TXTR_ElevatorIcon",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "bbf02bd9-64c9-4b24-9440-bd67d4b1ceb5",
+          "Command": "extract"
+        },
+        {
+          "Id": "e99dd749-9b4c-427d-83a8-e4674b9fac35",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\CREATE_TEST\\GGuiSys\\TXTR_ElevatorIcon\\src\\0c0023f9.TXTR"
+        },
+        {
+          "Id": "0570aede-52d1-4e0f-bd3c-cba73a615a24",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\CREATE_TEST\\GGuiSys\\TXTR_ElevatorIcon\\tmp"
+        },
+        {
+          "Id": "d487efde-a66f-415c-9bbf-1064569e2f85",
+          "Command": "-m"
+        },
+        {
+          "Id": "d5cbee6e-35ae-4718-8e3b-d6d4f3173986",
+          "Command": "-vc"
+        }
+      ]
+    },
+    {
+      "Id": "b1422594-6977-4c09-afd2-471e773a56ec",
+      "Command": "create -GGuiSys - TXTR_ElevatorIcon",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "b7ccb005-79a2-4409-9467-91921890f866",
+          "Command": "create"
+        },
+        {
+          "Id": "6140e7e4-c747-4004-a64e-a909444b1a82",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\CREATE_TEST\\GGuiSys\\TXTR_ElevatorIcon\\tmp\\0c0023f9_1.png"
+        },
+        {
+          "Id": "ed933b54-f503-487d-95b0-80293f54f9b6",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\CREATE_TEST\\GGuiSys\\TXTR_ElevatorIcon\\dst\\0c0023f9.TXTR"
+        },
+        {
+          "Id": "16e931af-10d6-44a4-930a-5fbdc0e29528",
+          "Command": "-m 5"
+        },
+        {
+          "Id": "a498e1ec-58d1-49ca-8245-148424f10eff",
+          "Command": "-t CMPR"
+        },
+        {
+          "Id": "e2120998-2796-4f77-a2a4-234d73603f39",
+          "Command": "-p RGB5A3"
+        },
+        {
+          "Id": "4fa64b03-0014-4b89-a7a3-006a4f831906",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "f5efa12d-81ee-4768-8a2c-9ec2be2e3e17",
+      "Command": "read -GGuiSys - TXTR_ElevatorIcon",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "b1dfd22c-2596-429d-9ec4-cdc0401905cb",
+          "Command": "read"
+        },
+        {
+          "Id": "4f9a1118-cc3d-4f7f-a882-3e47d8914908",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\CREATE_TEST\\GGuiSys\\TXTR_ElevatorIcon\\dst\\0c0023f9.TXTR"
+        },
+        {
+          "Id": "3d3df35b-3934-4d43-8dce-fd775f934854",
+          "Command": "-cl"
+        }
+      ]
+    },
+    {
+      "Id": "584919d4-8f0f-44ba-9539-66926a03bbe6",
+      "Command": "extract - GGuiSys - TXTR_ElevatorIcon (DST)",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "4ed6f88a-1b25-4540-ba23-76cdcf249e1e",
+          "Command": "extract"
+        },
+        {
+          "Id": "b9d727f5-1beb-4ebf-a622-3432dacbeb3c",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\CREATE_TEST\\GGuiSys\\TXTR_ElevatorIcon\\dst\\0c0023f9.TXTR"
+        },
+        {
+          "Id": "3e66d7a8-9439-49a8-acd9-08652616f918",
+          "Command": "C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\CREATE_TEST\\GGuiSys\\TXTR_ElevatorIcon\\dst"
+        },
+        {
+          "Id": "eb7c1d6d-9aae-4eaa-a467-ab2d97727183",
+          "Command": "-m"
+        },
+        {
+          "Id": "04d40eee-d724-4022-a1fe-c496f5c2b7d9",
+          "Command": "-vcl"
+        }
+      ]
+    },
+    {
+      "Id": "4f17b518-1a16-4e0c-98cc-548347f5ac95",
+      "Command": "unknown",
+      "ProjectConfig": "Debug",
+      "Items": [
+        {
+          "Id": "c0eccf46-0abc-453b-b947-a7f65c838a15",
+          "Command": "read"
+        },
+        {
+          "Id": "2d42c92d-d80c-4469-93e8-f6b8af84a07e",
+          "Command": "c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\GGuiSys-pak\\3e75f7c6.TXTR"
+        },
+        {
+          "Id": "075be2db-e23d-4359-b81b-330ac420ad01",
+          "Command": "-cl"
+        }
+      ]
+    }
+  ]
+}

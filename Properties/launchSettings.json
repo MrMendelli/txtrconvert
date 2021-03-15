@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "txtrconvert": {
+      "commandName": "Project",
+      "commandLineArgs": "extract c:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1Paks\\GGuiSys-pak\\7aed87d7.TXTR C:\\Users\\John_Nathaniel\\Desktop\\TXTRSearch\\MP1_Metroid1\\CREATETEST\\ext -m -vcl"
+    }
+  }
+}

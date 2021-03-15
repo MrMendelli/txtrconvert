@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "txtrconvert", "txtrconvert.csproj", "{5A377DE5-B223-499B-A913-23A8B45CFD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Debug|x64.ActiveCfg = Debug|x64
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Debug|x64.Build.0 = Debug|x64
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Release|x64.ActiveCfg = Release|x64
+		{5A377DE5-B223-499B-A913-23A8B45CFD7F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8CF2FE-9BCF-46C4-8DF7-88BA854CDD04}
+	EndGlobalSection
+EndGlobal
